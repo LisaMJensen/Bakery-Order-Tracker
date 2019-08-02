@@ -23,7 +23,8 @@ h1#header {
 
 ol#orderlist {
     position: relative;
-    top: 140px;
+    top: 100px;
+    margin: 30px;
 }
 
 /* h3 {
@@ -33,31 +34,51 @@ ol#orderlist {
 
 div#links {
     position: relative;
-    top: 300px;
+    top: 150px;
+    margin: 30px;
 }
 
 img#bread-flipped {
-transform: scaleX(-1);
-width: 70px;
-height: auto;
+    transform: scaleX(-1);
+    width: 70px;
+    height: auto;
 }
 
 img#bread {
-width: 70px;
-height: auto;
+    width: 70px;
+    height: auto;
 }
 
 div#form {
     position: relative;
     top: 100px;
+    margin: 30px;
 }
 
 div#splashlinks {
     position: relative;
     top: 100px;
+    margin: 30px;
 }
 
 div#vendor-index {
     position: relative;
     top: 100px;
+}
+
+div#vendor-cards {
+    border: black, 2px;
+    margin: 30px;
+}
+
+div#home-link {
+    margin: 30px;
+}
+
+h1#sub-header {
+    margin: 30px;
+}
+
+h1#order-header {
+    top: 150px;
 }

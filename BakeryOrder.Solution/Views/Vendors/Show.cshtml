@@ -3,11 +3,11 @@
   Layout = "_Layout";
 }
 <ol id="orderlist">
-<h3>All orders in the tracker:</h3>
+<h1 id="order-header">All orders in the tracker:</h1>
 
 @foreach (Order order in @Model["orders"])
 {
-  <li><a href='/vendors/@Model["vendor"].Id/orders/@order.Id'>@order.Description</a></li>
+  <li>@order.Description</li>
 }
 </ol>
 <div id="links">
