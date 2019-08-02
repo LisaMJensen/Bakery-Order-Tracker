@@ -13,7 +13,7 @@ h1#header {
     top:0px;
     left:0px;
     width:100%;
-    color:#CCC;
+    color:white;
     background:#0059b3;
     padding:8px;
     text-align: center;
@@ -22,14 +22,14 @@ h1#header {
 }
 
 ol#orderlist {
-    position: fixed;
+    position: relative;
     top: 140px;
 }
 
-h3 {
+/* h3 {
     position: fixed;
     top: 90px;
-}
+} */
 
 div#links {
     position: relative;
@@ -48,6 +48,16 @@ height: auto;
 }
 
 div#form {
+    position: relative;
+    top: 100px;
+}
+
+div#splashlinks {
+    position: relative;
+    top: 100px;
+}
+
+div#vendor-index {
     position: relative;
     top: 100px;
 }

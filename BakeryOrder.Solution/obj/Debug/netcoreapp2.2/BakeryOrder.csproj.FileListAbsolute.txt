@@ -12,6 +12,9 @@ C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netco
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Index.g.cshtml.cs
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Orders\New.g.cshtml.cs
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Show.g.cshtml.cs
+C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Footer.g.cshtml.cs
+C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Header.g.cshtml.cs
+C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Index.g.cshtml.cs
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\New.g.cshtml.cs
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Show.g.cshtml.cs
@@ -28,6 +31,3 @@ C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\bin\Debug\netco
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\bin\Debug\netcoreapp2.2\BakeryOrder.Views.pdb
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\BakeryOrder.Views.pdb
 C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\BakeryOrder.csproj.CopyComplete
-C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Footer.g.cshtml.cs
-C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\Leese\Desktop\Bakery-Order-Tracker\BakeryOrder.Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Header.g.cshtml.cs
