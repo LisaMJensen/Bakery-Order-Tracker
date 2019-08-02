@@ -44,9 +44,9 @@ namespace BakeryOrder.Controllers
             Vendor foundVendor = Vendor.Find(vendorId);
             Order newOrder = new Order(orderDescription);
             foundVendor.AddOrder(newOrder);
-            List<Order> genreOrders = foundVendor.Orders;
-            model.Add("orders", genreOrders);
-            model.Add("genre", foundVendor);
+            List<Order> vendorOrders = foundVendor.Orders;
+            model.Add("orders", vendorOrders);
+            model.Add("vendor", foundVendor);
             return View("Show", model);
         }
 
