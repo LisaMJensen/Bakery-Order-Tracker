@@ -14,7 +14,40 @@ h1#header {
     left:0px;
     width:100%;
     color:#CCC;
-    background:#333;
+    background:#0059b3;
     padding:8px;
     text-align: center;
+    font-family: 'Concert One', cursive;
+    font-size: 40px;
+}
+
+ol#orderlist {
+    position: fixed;
+    top: 140px;
+}
+
+h3 {
+    position: fixed;
+    top: 90px;
+}
+
+div#links {
+    position: relative;
+    top: 300px;
+}
+
+img#bread-flipped {
+transform: scaleX(-1);
+width: 70px;
+height: auto;
+}
+
+img#bread {
+width: 70px;
+height: auto;
+}
+
+div#form {
+    position: relative;
+    top: 100px;
 }
